@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdelmounaimB
-- 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Python Automation
 - 📫 How to reach me bouattit.abdelmounaim@gmail.com
 
 <!---
