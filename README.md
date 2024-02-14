@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdelmounaimB
 - 👀 I’m interested in Python Automation
-- 📫 How to reach me bouattit.abdelmounaim@gmail.com
+- 📫 How to reach me abdousubs@gmail.com
 
 <!---
 AbdelmounaimB/AbdelmounaimB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
